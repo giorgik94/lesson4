@@ -4,15 +4,41 @@
 .middle {
 	vertical-align: middle;
 }
+.kartuli-relatiuri {
+	font-family: 'ALK Rounded Nusx Med';
+}
+.pabsoluturi {
+	font-family: "BPG Irubaqidze", sans-serif;
+}
+.infoabsoluturi {
+	font-family: "KA_LORTKIPANIDZE", sans-serif;
+}
+.cabsoluturi {
+	font-family: "BPG Mikheil Stefane", sans-serif;
+}
+.mhabsoluturi {
+	font-family: 'Sigmar One', cursive;
+}
+.blockp {
+	font-family: 'Sigmar One', cursive;
+}
+.dhrelatiuri {
+	font-family: 'Caveat';
+}
 .logo {
-	margin-left: 30px; 
+	/*margin-left: 30px; 
 	margin-top: 30px; 
 	margin-right: 49.8px; 
-	margin-bottom: 77.1px;
+	margin-bottom: 77.1px;*/
+
+	margin: 30px 49.8px 77.1px 30px;
+
 }
 .navigation {
-	margin-top: 30.8px; 
-	margin-bottom: 76.9px;
+	/*margin-top: 30.8px; 
+	margin-bottom: 76.9px;*/
+
+	margin: 30.8px 0px 76.9px 0px;
 }
 .nav-li-main {
 	margin-right: 18px;
@@ -21,8 +47,8 @@
 	margin-right: 30px;
 }
 .nav-a {
-	text-decoration: none; 
 	font-size: 22px;
+	font-family: "BPG ExtraSquare Mtavruli", sans-serif; 
 }
 .active {
 	color: #EE4036;
@@ -31,21 +57,22 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 117.6px; 
-	width: 1170px; height: 460px; 
+	width: 1170px; 
+	height: 460px; 
 	display: block;
 }
 .hfeatured {
 	margin-left: 98px; 
 	margin-bottom: 29.8px; 
-	font-size: 24px; c
-	olor: #000000;
+	font-size: 24px; 
+	color: #000000;
 }
 .responsive {
 	width: 570px; 
 	height: 225px; 
 	background-color: #F2F2F2; 
 	margin-left: 98px; 
-	margin-right: 29px; 
+	margin-right: 29px;
 }
 .development {
 	width: 570px; 
